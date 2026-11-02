@@ -16,7 +16,7 @@
 ## 🧩 参与过的开源项目
 
 - ⭐ **3.6k** [l0ng-ai/openidea](https://github.com/l0ng-ai/openidea) —— 用 Rust 重写的 IDE，IDEA 风格键位、工具窗口与全局搜索
-  - [#745](https://github.com/l0ng-ai/openidea/pull/745) `fix(java)`：把 IDE 的代理设置传给语言服务器 JVM，读 Maven 模型时不再请求远程 SNAPSHOT（2026-11-02 合入，+126 行 / 2 文件）
+  - [#745](https://github.com/l0ng-ai/openidea/pull/745) 修了一处 Java 支持的问题：把 IDE 的代理设置也传给语言服务器用的 JVM，读 Maven 模型时不再请求远程 SNAPSHOT（2026-11-02 合入，+126 行 / 2 文件）
 
 ## 🧰 其他项目
 
