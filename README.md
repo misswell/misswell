@@ -4,7 +4,7 @@
 
 ## 🚀 精选项目
 
-按 Star 排序，全部是我自己写的：
+几个我长期在维护的项目，按 Star 排序：
 
 - ⭐ **95** [octoman-weibo-backup](https://github.com/misswell/octoman-weibo-backup) —— 微博备份工具（Chrome 扩展）。一键把任意微博用户的公开内容抓成本地 HTML，离线可看；Manifest V3 + `m.weibo.cn` 接口
 - ⭐ **36** [MacPilot](https://github.com/misswell/MacPilot) —— 开源 macOS 菜单栏效率工具箱。Swift 原生、零第三方依赖，一个应用装下 11 个日常功能：按应用的自动退出 / 启动规则、iPhone 与 Apple Watch 蓝牙靠近解锁 Mac（RSSI 双阈值）、⌥Tab 窗口切换、⌘⇧V 剪贴板历史、平滑滚动、画中画、截图贴图、HDR 录屏、输入法自动化、Finder 右键菜单、APFS 透明压缩。Apple 公证签名，免费使用 → **[下载最新版](https://github.com/misswell/MacPilot/releases/latest)**
