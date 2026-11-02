@@ -13,7 +13,7 @@
 - ⭐ **3** [deepseek-sidebar](https://github.com/misswell/deepseek-sidebar) —— Chrome 侧栏一键打开 DeepSeek / 千问 / 智谱 / Kimi / ChatGPT / Gemini，多 AI 同屏对比，还能像 DevTools 一样选页面元素喂给模型
 - ⭐ **2** [ImageViewer](https://github.com/misswell/ImageViewer) —— 替换浏览器默认图片页：缩放、平移、旋转、翻转、打码，原生 JS + Manifest V3
 
-## 🧩 顺手参与过的开源项目
+## 🧩 参与过的开源项目
 
 - ⭐ **3.6k** [l0ng-ai/openidea](https://github.com/l0ng-ai/openidea) —— 用 Rust 重写的 IDE，IDEA 风格键位、工具窗口与全局搜索
   - [#745](https://github.com/l0ng-ai/openidea/pull/745) `fix(java)`：把 IDE 的代理设置传给语言服务器 JVM，读 Maven 模型时不再请求远程 SNAPSHOT（2026-11-02 合入，+126 行 / 2 文件）
